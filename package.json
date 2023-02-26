@@ -1,0 +1,22 @@
+{
+  "name": "cypress-ui-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afzal-khan-git/ui-automation-cypress.git"
+  },
+  "author": "afzal khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afzal-khan-git/ui-automation-cypress/issues"
+  },
+  "homepage": "https://github.com/afzal-khan-git/ui-automation-cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.7.0"
+  }
+}
